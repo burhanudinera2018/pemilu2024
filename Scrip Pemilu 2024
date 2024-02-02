@@ -1,0 +1,1502 @@
+function increment() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_101() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_101() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_102() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_102() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_103() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_103() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_104() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_104() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_105() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_105() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_106() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_106() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_107() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_107() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_108() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_108() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_109() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_109() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_110() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_110() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+function increment_2() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_2() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_201() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_201() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_202() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_202() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_203() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_203() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_204() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_204() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_205() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_205() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_206() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_206() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_207() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_207() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_208() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_208() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_209() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_209() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_210() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_210() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+function increment_presiden_01() {
+ SpreadsheetApp.getActiveSheet().getRange('E9').setValue(SpreadsheetApp.getActiveSheet().getRange('E9').getValue() + 1);
+}
+function decrement_presiden_01() {
+ SpreadsheetApp.getActiveSheet().getRange('E9').setValue(SpreadsheetApp.getActiveSheet().getRange('E9').getValue() - 1);
+}
+function increment_presiden_02() {
+ SpreadsheetApp.getActiveSheet().getRange('E12').setValue(SpreadsheetApp.getActiveSheet().getRange('E12').getValue() + 1);
+}
+function decrement_presiden_02() {
+ SpreadsheetApp.getActiveSheet().getRange('E12').setValue(SpreadsheetApp.getActiveSheet().getRange('E12').getValue() - 1);
+}
+function increment_presiden_03() {
+ SpreadsheetApp.getActiveSheet().getRange('E15').setValue(SpreadsheetApp.getActiveSheet().getRange('E15').getValue() + 1);
+}
+function decrement_presiden_03() {
+ SpreadsheetApp.getActiveSheet().getRange('E15').setValue(SpreadsheetApp.getActiveSheet().getRange('E15').getValue() - 1);
+}
+function increment_presiden_rusak() {
+ SpreadsheetApp.getActiveSheet().getRange('E31').setValue(SpreadsheetApp.getActiveSheet().getRange('E31').getValue() + 1);
+}
+function decrement_presiden_rusak() {
+ SpreadsheetApp.getActiveSheet().getRange('E31').setValue(SpreadsheetApp.getActiveSheet().getRange('E31').getValue() - 1);
+}
+function increment_DPR_rusak_01() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_01() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_02() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_02() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_03() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_03() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_04() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_04() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_05() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_05() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_06() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_06() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_07() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_07() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_08() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_08() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_09() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_09() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_10() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_10() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_11() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_11() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_12() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_12() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_13() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_13() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_14() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_14() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_15() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_15() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_16() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_16() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_17() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_17() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_18() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_18() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_19() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_19() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_20() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_20() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_21() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_21() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_22() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_22() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_23() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPR_rusak_23() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+function increment_DPR_rusak_24() {
+ SpreadsheetApp.getActiveSheet().getRange('F53').setValue(SpreadsheetApp.getActiveSheet().getRange('F53').getValue() + 1);
+}
+function decrement_DPR_rusak_24() {
+ SpreadsheetApp.getActiveSheet().getRange('F53').setValue(SpreadsheetApp.getActiveSheet().getRange('F53').getValue() - 1);
+}
+function increment_DPD_rusak() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() + 1);
+}
+function decrement_DPD_rusak() {
+ SpreadsheetApp.getActiveSheet().getRange('E53').setValue(SpreadsheetApp.getActiveSheet().getRange('E53').getValue() - 1);
+}
+
+
+
+
+
+function increment_3() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_3() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_301() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_301() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_302() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_302() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_303() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_303() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_304() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_304() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_305() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_305() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_306() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_306() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_307() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_307() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_308() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_308() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_309() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_309() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_310() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_310() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_4() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_4() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_5() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_5() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_501() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_501() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_502() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_502() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_503() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_503() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_504() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_504() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_505() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_505() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_506() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_506() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_507() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_507() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_508() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_508() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_509() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_509() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_510() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_510() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+function increment_6() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_6() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_601() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_601() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_602() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_602() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_603() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_603() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_604() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_604() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_605() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_605() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_606() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_606() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_607() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_607() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_608() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_608() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_610() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_610() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_7() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_7() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_701() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_701() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_702() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_702() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_703() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_703() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_704() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_704() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_705() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_705() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_706() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_706() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_707() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_707() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_708() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_708() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_709() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_709() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_710() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_710() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_8() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_8() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_801() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_801() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_802() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_802() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_803() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_803() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_804() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_804() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_805() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_805() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_806() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_806() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_807() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_807() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_808() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_808() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_809() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_809() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_810() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_810() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_9() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_9() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_901() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_901() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_902() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_902() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_903() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_903() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_904() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_904() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_905() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_905() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_906() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_906() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_907() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_907() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_908() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_908() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_909() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_909() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_910() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_910() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+
+
+function increment_10() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_10() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1001() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1001() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1002() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1002() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1003() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1003() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1004() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1004() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1005() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1005() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1006() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1006() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1007() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1007() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1008() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1008() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1009() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1009() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1010() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1010() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+
+function increment_11() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_11() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1101() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1101() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1102() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1102() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1103() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1103() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1104() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1104() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1105() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1105() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1106() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1106() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1107() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1107() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1108() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1108() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1109() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1109() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1110() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1110() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+
+function increment_12() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_12() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1201() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1201() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1202() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1202() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1203() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1203() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1204() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1204() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1205() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1205() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1206() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1206() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1207() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1207() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1208() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1208() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1209() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1210() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1210() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_13() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_13() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1301() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1301() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1302() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1302() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1303() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1303() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1304() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1304() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1305() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1305() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1306() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1306() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1307() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1307() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1308() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1308() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1309() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1309() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1310() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1310() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+
+function increment_14() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_14() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_15() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_15() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1501() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1501() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1502() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1502() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1503() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1503() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1504() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1504() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1505() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_605() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1506() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1506() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1507() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1507() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1508() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1508() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1509() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1509() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1510() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1510() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_16() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_16() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1601() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1601() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1602() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1602() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1603() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1603() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1604() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1604() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1605() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1605() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1606() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1606() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1607() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1607() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1608() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1608() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_1609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1610() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1610() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_17() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_17() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_1701() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_1701() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_1702() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_1702() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_1703() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_1703() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_1704() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_1704() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_1705() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_1705() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_1706() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_1706() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_1707() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_1707() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_1708() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_1708() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_609() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_1709() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_1710() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_1710() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+
+function increment_24() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_24() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_2401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_2401() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_2402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_2402() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_2403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_2403() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_2404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_2404() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_2405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_2405() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_2406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_2406() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_2407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_2407() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_2408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_2408() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_2409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_2409() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_2410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_2410() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
+
+
+
+
+function increment_dpd_00() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() + 1);
+}
+function decrement_dpd_00() {
+ SpreadsheetApp.getActiveSheet().getRange('F12').setValue(SpreadsheetApp.getActiveSheet().getRange('F12').getValue() - 1);
+}
+function increment_dpd_01() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() + 1);
+}
+function decrement_dpd_01() {
+ SpreadsheetApp.getActiveSheet().getRange('F15').setValue(SpreadsheetApp.getActiveSheet().getRange('F15').getValue() - 1);
+}
+function increment_dpd_02() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() + 1);
+}
+function decrement_dpd_02() {
+ SpreadsheetApp.getActiveSheet().getRange('F18').setValue(SpreadsheetApp.getActiveSheet().getRange('F18').getValue() - 1);
+}
+function increment_dpd_03() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() + 1);
+}
+function decrement_dpd_03() {
+ SpreadsheetApp.getActiveSheet().getRange('F21').setValue(SpreadsheetApp.getActiveSheet().getRange('F21').getValue() - 1);
+}
+function increment_dpd_04() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() + 1);
+}
+function decrement_dpd_04() {
+ SpreadsheetApp.getActiveSheet().getRange('F24').setValue(SpreadsheetApp.getActiveSheet().getRange('F24').getValue() - 1);
+}
+function increment_dpd_05() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() + 1);
+}
+function decrement_dpd_05() {
+ SpreadsheetApp.getActiveSheet().getRange('F27').setValue(SpreadsheetApp.getActiveSheet().getRange('F27').getValue() - 1);
+}
+function increment_dpd_06() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() + 1);
+}
+function decrement_dpd_06() {
+ SpreadsheetApp.getActiveSheet().getRange('F30').setValue(SpreadsheetApp.getActiveSheet().getRange('F30').getValue() - 1);
+}
+function increment_dpd_07() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() + 1);
+}
+function decrement_dpd_07() {
+ SpreadsheetApp.getActiveSheet().getRange('F33').setValue(SpreadsheetApp.getActiveSheet().getRange('F33').getValue() - 1);
+}
+function increment_dpd_08() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() + 1);
+}
+function decrement_dpd_08() {
+ SpreadsheetApp.getActiveSheet().getRange('F36').setValue(SpreadsheetApp.getActiveSheet().getRange('F36').getValue() - 1);
+}
+function increment_dpd_09() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() + 1);
+}
+function decrement_dpd_09() {
+ SpreadsheetApp.getActiveSheet().getRange('F39').setValue(SpreadsheetApp.getActiveSheet().getRange('F39').getValue() - 1);
+}
+function increment_dpd_11() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() + 1);
+}
+function decrement_dpd_11() {
+ SpreadsheetApp.getActiveSheet().getRange('F42').setValue(SpreadsheetApp.getActiveSheet().getRange('F42').getValue() - 1);
+}
